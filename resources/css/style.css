@@ -1,0 +1,39 @@
+h1{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: Gray;
+}
+
+body{
+    text-align: center;
+    background-color: black;
+}
+
+.cta{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+a{
+    text-decoration: underline;
+}
+
+.footer{
+    text-align: right;
+    color: gray;
+}
